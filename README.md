@@ -91,7 +91,7 @@ This section shows the things I've learned so far. Keep in mind that this is not
   - LINQ/Lambdas
   - APIs
   - Text files
-  - MongoDB [Not learned yet]
+  - MongoDB
   - CosmosDB [Not learned yet]
 
 ## Projects
